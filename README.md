@@ -10,14 +10,6 @@ A modern React-based web app that fetches and displays the latest news from vari
 - 📦 Built with React + Axios
 - 🌐 Integrates with a News API (e.g., NewsAPI.org or any other)
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots or a screen recording here)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, JavaScript
